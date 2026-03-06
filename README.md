@@ -20,9 +20,10 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 | Marks Range | Grade |
 |------------|-------|
 | 90 – 100 | A |
-| 75 – 89 | B |
-| 60 – 74 | C |
-| 40 – 59 | D |
+| 80 – 89 | B |
+| 75 – 79 | C |
+| 55 – 74 | D |
+| 40 – 54 | E |
 | Below 40 | F |
 
 ---
