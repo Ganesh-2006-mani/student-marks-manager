@@ -21,10 +21,10 @@ A simple web application built using **HTML, CSS, and JavaScript** that allows u
 |------------|-------|
 | 90 – 100 | A |
 | 80 – 89 | B |
-| 75 – 79 | C |
-| 55 – 74 | D |
-| 40 – 54 | E |
-| Below 40 | F |
+| 65 – 79 | C |
+| 55 – 64 | D |
+| 35 – 54 | E |
+| Below 35 | F |
 
 ---
 
